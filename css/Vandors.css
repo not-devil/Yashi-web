@@ -1,0 +1,658 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+#FirstSection
+{
+   width: 100%;
+   height: 100vh;
+}
+.contactInfo
+{
+	width: 100%;
+	height:7%;color: #fff;
+	background:#000;
+}
+.contactInfoLeft
+{
+	width: auto;
+	height: auto;
+	text-align: left;
+}
+.contactInfoLeft span
+{
+	
+   font-size: 16px;
+   padding-top: 10%;
+    color: red;
+}
+.contactInfoRight
+{
+	width: auto;
+	height: auto;
+	text-align: right;
+}
+.NavigationClass
+{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	background:red;
+}
+.navStyle li a
+{
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.navStyle li a:hover
+{
+ border-bottom: 3px solid red;
+}
+.navStyle li a.active {
+  border-bottom: 3px solid red;
+}
+.VandorsSection
+{
+width: 100%;
+height: 79.5vh;
+    background-image: url('../image/deco/home-banner-1.jpg');
+	background-position:center;
+	background-size: cover;
+    filter: blur(0.3px);
+ opacity: 7;
+ position: absolute;
+}
+.VandorsContant
+{
+	width: auto;
+	height: auto;
+	display: block;
+	padding: 10px;
+	text-align: center;
+	justify-content: center;
+	margin-top:15%;
+}
+.VandorsContant h3
+{
+ 
+ width: 100%;
+ color: #fff;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ font-weight: 600;
+ font-size: 42px;
+ letter-spacing: 2px;
+ line-height: 1.5;
+ font-family: Garamond;
+
+}
+/*
+
+////////
+      //////////
+Vandors second section Start 
+       //////////
+///////
+
+*/
+
+
+#VandorsSectionSecond
+{
+	width: 100%;
+	height: auto;
+	padding-bottom: 50px;
+}
+.VandorMainDiv
+{
+	width: 100%;
+	height: auto;
+}
+.VandorsHeading
+{
+width: 100%;
+	height: auto;
+}
+.VandorsHeading h4
+{
+ color: #000;
+ text-align: center;
+ justify-content: center;
+padding: 20px;
+margin-top: 20px;
+
+font-size: 40px;
+letter-spacing: 2px;
+font-family: 'Great Vibes', cursive;
+}
+.VandorsImage
+{
+	width: 100%;
+	height: auto;
+}
+.VendorsCard
+{
+   width: 30%;
+   height: 50vh;
+   display: inline-block;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 20px;
+}
+.VendorsCard img
+{
+	width: 100%;
+   height: 45vh;
+   overflow: hidden;
+
+}
+.VendorsCardText
+{
+	width: 100%;
+	height: auto;
+
+}
+.VendorsCardText  span
+{
+	width: 100%;
+	margin-top: 10px;
+	margin-left: 100px;
+	text-align: center;
+	justify-content: center;
+	color: #000;
+}
+/*
+
+////////
+      //////////
+Vandors second section end 
+       //////////
+///////
+
+*/
+
+/*
+
+////////
+      //////////
+Vandors third section Start 
+       //////////
+///////
+
+*/
+
+#VendorsThirdSection
+{
+	width: 100%;
+	height: 100vh;
+}
+.VendorsThirdMain
+{
+width: 100%;
+height: auto;
+	
+}
+.VendorsThirdContant
+{
+	width: 100%;
+	height:auto;
+	position: absolute;
+   padding-bottom: 20px;
+
+}
+.VendorsThirdImg
+{
+	width: 50%;
+	height: auto;
+	float: right;
+	position: relative;
+	right: 50px;top: 40px;
+	margin-bottom: 5%;
+	
+}
+.VendorsThirdImg img
+{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.VendorsThirdText
+{
+	width: 35%;
+	padding:20px;
+	position: relative;
+	left: 60px;top: 20px;
+	height: auto;
+	margin-left: 20%;
+	margin-bottom: 40px;
+	color: #000;
+	margin: 10px;
+}
+.VendorsThirdText h4
+{
+	width: 100%;
+	height: auto;
+color: #000;
+ /*text-align: center;
+ justify-content: center;*/
+padding: 20px;
+font-size: 42px;
+letter-spacing: 2px;
+font-family: 'Great Vibes', cursive;
+}
+.VendorsThirdText p
+{
+	width: 100%;
+	height: auto;
+color: #000;font-size: 25px;
+letter-spacing: 2px;
+font-family: 'Great Vibes', cursive;
+	text-align: center;
+	justify-content: center;
+}
+.VendorsThirdText h5
+{
+	width: 100%;
+	height: auto;
+color: #000;font-size: 30px;
+padding: 20px;
+letter-spacing: 2px;
+font-family: 'Great Vibes', cursive;
+}
+.VendorsThirdText ul
+{
+ text-decoration: none;
+ list-style: none;font-size: 25px;
+ padding: 10px;font-family: 'Great Vibes', cursive;
+}
+
+/*
+
+////////
+      //////////
+Vandors Third section end 
+       //////////
+///////
+
+*/
+/*
+
+////////
+      //////////
+conntact section start
+       //////////
+///////
+
+*/
+
+
+#ContactSection
+{
+	width: 100%;
+	height: auto;
+	background-image: url('../image/deco/4-1.jpg');
+	background-position:center;
+	background-size: cover;
+    filter: blur(0.3px);
+  opacity: 5;
+}
+.ContactMain
+{
+	width: 100%;
+	height: auto;
+	color: #000;
+	padding: 50px;
+	margin-top: 20px;
+
+}
+.ContactCard
+{
+	width: 75%;
+	background: #fff;
+	height: auto;
+	color: red;
+	padding: 30px;
+}
+.ContactCardHeading
+{
+	width: 100%;
+	height: auto;
+	padding-bottom: 20px;
+
+}
+.ContactCardHeading h3
+{
+	width: 100%;
+ color: #000;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ font-weight: 500;
+ font-family: Garamond;
+}
+.ContactCardHeading p
+{
+	width: 100%;
+ color: #000;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ font-weight: 500;
+ font-family: Garamond;
+}
+
+#ContactForm
+{
+	color: #000;
+}
+#ContactForm.viewBtn
+{
+	display: inline-block;
+    color: #fff;
+    font-size: 15px;
+    background: #004f20;
+    font-family: 'Hind', sans-serif;
+    border: 2px solid #004f20;
+    padding: 5px 48px 5px 48px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 500ms ease;
+
+}
+#ContactForm.viewBtn:hover
+{
+	background: transparent;
+	color: #000;
+}
+
+
+/*
+
+////////
+      //////////
+contact  Third section end 
+       //////////
+///////
+
+*/
+
+/*
+
+////////
+      //////////
+footer section start
+       //////////
+///////
+
+*/
+#Footer
+{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	color: #000;
+}
+.footerMain
+{
+	width: 100%;
+	height: auto;
+	color: #000;
+	padding: 20px;
+}
+.footerImg
+{ 
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.footerImg img
+{
+	width: auto;
+	height: auto;
+	align-items: center;
+	padding-left: 40%;
+
+	align-content: center;
+	justify-content: center;
+	
+}
+.FooterHeading 
+{
+	width:55%;
+	height: auto;
+	border: 1px solid #fff;
+}
+.FooterHeading h3
+{
+	width: 100%;
+font-size: 40px;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ position: relative;
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 19px;
+font-family: 'Great Vibes', cursive;
+}
+.footerMain .Address
+{
+	width: 30%;
+	height: 10%;
+	display: inline-block;
+	color: #000;
+	margin: 15px;
+	padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.footerMain .Address h3
+{
+	text-align: center;
+	width: 100%
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	font-family: 'Great Vibes', cursive;
+
+}
+#SecondFooter
+{
+	width: 100%;
+	height: 50vh;
+	color:#000;
+	padding: 30px;
+}
+.SecondMain
+{
+	width: 100%;
+	height:50vh;
+	background: #fff;
+	color:#000;
+	/*margin-top: 20px;*/
+	padding: 10px;
+	padding-top: 50px;
+}
+.Second-contant-1{
+	width: 23%;
+	height: 50vh;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-1 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-2 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-3 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-2 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-3 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-1 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}
+.Second-contant-2{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-3{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+.Second-contant-4{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+#SocialFooter
+{
+	width: 100%;
+	height:10vh;
+	/*color: #fff;*/color: #000;
+}
+
+.copyWerite
+{
+	width: 40%;
+	height: auto;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+	align-items: center;
+	text-align: center;
+}
+
+.SocialIcon
+{
+	width:20%;
+	display: block;
+	height: auto;
+	float: right;
+	margin: 0px;
+	padding: 10px;
+}
+.SocialIcon .fa
+{
+	width: auto;
+	margin: 10px;
+	margin-bottom: 0!important;
+	align-items: center;
+	color: #000;
+	justify-content: center;
+}
+.SocialIcon .fa:hover
+{
+	color: blue;
+}
+
+
+
+
+
+/*
+
+////////
+      //////////
+footer  Third section end 
+       //////////
+///////
+
+*/

@@ -1,0 +1,454 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+#FirstSection
+{
+   width: 100%;
+   height: 62vh;
+   padding-bottom: 0;
+   margin-bottom: 0;
+}
+.footerInfo
+{
+	width: 100%;
+	height:7%;color: #fff;
+	background:#000;
+}
+.contactInfoLeft
+{
+	width: auto;
+	height: auto;
+	text-align: left;
+}
+.contactInfoLeft span
+{
+	
+   font-size: 16px;
+   padding-top: 10%;
+    color: red;
+}
+.contactInfoRight
+{
+	width: auto;
+	height: auto;
+	text-align: right;
+}
+.NavigationClass
+{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	background:red;
+}
+.navStyle li a
+{
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.navStyle li a:hover
+{
+ border-bottom: 3px solid red;
+}
+.V-1-headding
+{
+	width: 50%;
+	height: auto;
+	color: #000;
+	position: relative;
+	top: 95px;
+	left: 350px;
+	padding: 20px;
+	text-align: center;
+	justify-content: center;
+
+}
+.V-1-headding h4
+{
+	width: 100%;
+	height: auto;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	justify-content: center;
+	font-family:cursive;
+	font-weight: 500;
+	line-height: 1.5;
+	opacity: 1;
+	letter-spacing: 5px;
+	color: red;
+}
+/*
+///////////////
+Second section start
+///////////////
+*/
+
+#V-2Section
+{
+	width: 100%;
+	height: auto;
+	background:#fff;
+	border: 1px solid #ffff;
+
+}
+.V-2-main
+{
+	width:auto;
+	height: auto;
+	margin:10px;
+	padding: 10px;
+	
+}
+.V-2heading
+{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	text-align: center;
+    justify-content: center;
+}
+.V-2heading h4
+{
+	font-family: Garamond;
+	color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    justify-content: center;
+}
+.Vandors_Transport_para
+{
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	padding: 20px;
+}
+.Key-Point
+{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	
+}
+.Key-Point h3
+{
+	font-family: Garamond;
+	color: #333;
+	padding: 10px;
+	margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.Key-Point ul
+{
+list-style: none;
+padding: 10px;
+margin: 10px;
+}
+.Address_transport
+{
+	width: 80%;
+	height: auto;
+	padding: 10px;
+	margin: 10px;
+}
+.Address_transport p
+{
+	width: 50%;
+	height: auto;
+	font-size: 20px;
+	font-family: Garamond;
+}
+.Vandors_Transport_images
+{
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+	padding: 10px;
+	display: inline-block;
+}
+#image
+{
+	width: 45%;
+	height: auto;
+	padding: 0;
+	margin: 20px;
+	display: inline-block;
+}
+.Vandors_Transport_images img
+{
+	width: 100%;
+	height: auto;
+border: none;
+padding: 0;
+margin: 0;
+object-fit: cover;
+transition: all 0.1s linear;
+}
+.Vandors_Transport_images img:hover
+
+{
+filter: brightness(0.8) grayscale(1);
+}
+
+/*
+.////////////////////////////
+footert start
+////////////////////////////
+
+*/
+
+#Footer
+{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	color: #000;
+}
+.footerMain
+{
+	width: 100%;
+	height: auto;
+	color: #000;
+	padding: 20px;
+}
+.footerImg
+{ 
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.footerImg img
+{
+	width: auto;
+	height: auto;
+	align-items: center;
+	padding-left: 40%;
+	align-content: center;
+	justify-content: center;
+	
+}
+.FooterHeading 
+{
+	width:55%;
+	height: auto;
+	border: 1px solid #fff;
+}
+.FooterHeading h3
+{
+	width: 100%;
+font-size: 40px;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ position: relative;
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 19px;
+font-family: 'Great Vibes', cursive;
+}
+.footerMain .Address
+{
+	width: 30%;
+	height: 10%;
+	display: inline-block;
+	color: #000;
+	margin: 15px;
+	padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.footerMain .Address h3
+{
+	text-align: center;
+	width: 100%
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	font-family: 'Great Vibes', cursive;
+
+}
+#SecondFooter
+{
+	width: 100%;
+	height: 50vh;
+	color:#000;
+	padding: 30px;
+}
+.SecondMain
+{
+	width: 100%;
+	height:50vh;
+	background: #fff;
+	color:#000;
+	/*margin-top: 20px;*/
+	padding: 10px;
+	padding-top: 50px;
+}
+.Second-contant-1{
+	width: 23%;
+	height: 50vh;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-1 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-2 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-3 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-2 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-3 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-1 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}
+.Second-contant-2{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-3{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+.Second-contant-4{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+#SocialFooter
+{
+	width: 100%;
+	height:10vh;
+	/*color: #fff;*/color: #000;
+}
+
+.copyWerite
+{
+	width: 40%;
+	height: auto;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+	align-items: center;
+	text-align: center;
+}
+
+.SocialIcon
+{
+	width:20%;
+	display: block;
+	height: auto;
+	float: right;
+	margin: 0px;
+	padding: 10px;
+}
+.SocialIcon .fa
+{
+	width: auto;
+	margin: 10px;
+	margin-bottom: 0!important;
+	align-items: center;
+	color: #000;
+	justify-content: center;
+}
+.SocialIcon .fa:hover
+{
+	color: blue;
+}

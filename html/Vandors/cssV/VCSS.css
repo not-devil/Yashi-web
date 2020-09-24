@@ -1,0 +1,600 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+#FirstSection
+{
+   width: 100%;
+   height: 62vh;
+   padding-bottom: 0;
+   margin-bottom: 0;
+   border: 3px solid red;
+}
+.footerInfo
+{
+	width: 100%;
+	height:7%;color: #fff;
+	background:#000;
+}
+.contactInfoLeft
+{
+	width: auto;
+	height: auto;
+	text-align: left;
+}
+.contactInfoLeft span
+{
+	
+   font-size: 16px;
+   padding-top: 10%;
+    color: red;
+}
+.contactInfoRight
+{
+	width: auto;
+	height: auto;
+	text-align: right;
+}
+.NavigationClass
+{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	background:red;
+}
+.navStyle li a
+{
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.navStyle li a:hover
+{
+ border-bottom: 3px solid red;
+}
+.V-1Section
+{
+	width: 100%;
+	height: 40vh;
+	border: 3px solid red;
+	background: #26fa26;
+	background-size: cover;
+	color: #fff;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+/*/////////////////////////// */
+#V-2Section
+{
+	width: 100%;
+	height:auto;
+	background: #fff;
+	color: #000;
+	padding-bottom: 0px;
+}
+.V-2-main
+{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.V-2-div
+{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+/**/
+.V-2-heading
+{
+	width: auto;
+	height: auto;
+	margin: 20px;
+	padding: 20px;
+}
+.V-2Head
+{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.V-2Head h4
+{
+	width: 100%;
+	height: auto;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	justify-content: center;
+	font-family: 'Great Vibes', cursive;
+	font-weight: 500;
+	line-height: 1.5;
+	opacity: 1;
+	letter-spacing: 5px;
+	color: red;
+}
+/**/
+.V-2-contant
+{
+	width: 100%;
+	height: auto;
+}
+.V-2-POST
+{
+	width: auto;
+	height: auto;
+	margin: 20px;
+	padding: 20px;
+}
+.card
+{
+	margin-left: 10px;
+	margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+	display: inline-block;
+}
+.card img
+{
+	width: 100%;
+	height: 200px;
+}
+.card-body h5
+{
+	width: 100%;
+	height: auto;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+	justify-content: center;
+	font-size: 30px;
+	font-family:'Great Vibes', cursive;
+}
+.Star
+{
+	width: 100%;
+	height: auto;
+}
+.Star .fa
+{
+	color: yellow;
+	background: yellow;
+} 
+.card-text
+{
+width: 100%;
+ color: #000;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ font-weight: 500;
+ font-family: Garamond;
+}
+.para-2
+{
+	width: 100%;
+ color: #000;
+ text-align: center; 
+ justify-content: center;
+ font-weight: 500;
+ font-family: Garamond;
+}
+.V-2Btn
+{
+	padding: 10px;
+
+}
+.V-2Btn button
+{
+	margin-left: 70px;
+	color: #fff;
+    font-size: 15px;
+    background: #004f20;
+    font-family: 'Hind', sans-serif;
+    border: 2px solid #004f20;
+    padding: 5px 40px 5px 40px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 500ms ease;
+
+}
+/**/
+#V-3-Section
+{
+	width: 100%;
+	height: 80vh;
+	padding: 20px;
+	background:#fff;
+}
+.V-3-main
+{
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	
+}
+.V-3-div
+{
+	width: 100%;
+	height: 100%;
+}
+.CD-3
+{
+     height: 27rem;
+     margin-bottom: 20px;
+	margin-top: 10px;
+	padding: 0px;
+	background: #fafafa;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+.CD-3 img
+{
+ width: 100%;
+ height: auto;
+ padding: 0px;
+}
+.card-body
+{
+	width: auto;
+	height: auto;
+	margin: 20px;
+	padding: 0;
+}
+.card-body button
+{
+	width:auto;
+	display: inline-block;
+	height: auto;
+}
+.card-body button:hover
+{
+	background: transparent;
+	color: #000;
+
+}
+/**/
+#vandor3-Section
+{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+.vandor1-main
+{
+	width: auto;
+	height: auto;
+	padding: 20px;
+
+}
+.vandor1-div
+{
+	width: auto;
+	height: auto;
+	padding: 20px;
+
+}
+.box-1
+{
+	width: 60%;
+	height: auto;
+	margin-left: 30px;
+	margin-top: 20px;
+	padding: 30px;
+	background: #EBDFDC;
+}
+.box-1 p
+{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	justify-content: center;
+	color: #000;
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 40px;
+}
+.box-1 a
+{
+ width:auto;
+ height: auto;
+ border: 1px solid #000;
+ background: transparent;
+ color: red;
+ padding: 10px;
+ margin-left: 50%;
+ text-decoration: none;
+ outline: none;
+}
+.card-btn
+{
+	width: auto;
+	height: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin: 10px;
+	align-items: center;
+	justify-content: center;
+}
+.card-btn button
+{
+	width: auto;
+	height: auto;
+    padding: 2px 10px 2px 10px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-align: center;
+    background: #004f20;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 500ms ease;
+
+    
+}
+.card-btn button:hover
+{
+	background: transparent;
+	color: #000;
+	border: 2px solid #004f20;
+
+}
+/**/
+
+#Footer
+{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	color: #000;
+}
+.footerMain
+{
+	width: 100%;
+	height: auto;
+	color: #000;
+	padding: 20px;
+}
+.footerImg
+{ 
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.footerImg img
+{
+	width: auto;
+	height: auto;
+	align-items: center;
+	padding-left: 40%;
+
+	align-content: center;
+	justify-content: center;
+	
+}
+.FooterHeading 
+{
+	width:55%;
+	height: auto;
+	border: 1px solid #fff;
+}
+.FooterHeading h3
+{
+	width: 100%;
+font-size: 40px;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ position: relative;
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 19px;
+font-family: 'Great Vibes', cursive;
+}
+.footerMain .Address
+{
+	width: 30%;
+	height: 10%;
+	display: inline-block;
+	color: #000;
+	margin: 15px;
+	padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.footerMain .Address h3
+{
+	text-align: center;
+	width: 100%
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	font-family: 'Great Vibes', cursive;
+
+}
+#SecondFooter
+{
+	width: 100%;
+	height: 50vh;
+	color:#000;
+	padding: 30px;
+}
+.SecondMain
+{
+	width: 100%;
+	height:50vh;
+	background: #fff;
+	color:#000;
+	/*margin-top: 20px;*/
+	padding: 10px;
+	padding-top: 50px;
+}
+.Second-contant-1{
+	width: 23%;
+	height: 50vh;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-1 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-2 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-3 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-2 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-3 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-1 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}
+.Second-contant-2{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-3{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+.Second-contant-4{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+#SocialFooter
+{
+	width: 100%;
+	height:10vh;
+	/*color: #fff;*/color: #000;
+}
+
+.copyWerite
+{
+	width: 40%;
+	height: auto;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+	align-items: center;
+	text-align: center;
+}
+
+.SocialIcon
+{
+	width:20%;
+	display: block;
+	height: auto;
+	float: right;
+	margin: 0px;
+	padding: 10px;
+}
+.SocialIcon .fa
+{
+	width: auto;
+	margin: 10px;
+	margin-bottom: 0!important;
+	align-items: center;
+	color: #000;
+	justify-content: center;
+}
+.SocialIcon .fa:hover
+{
+	color: blue;
+}

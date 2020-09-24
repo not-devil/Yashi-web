@@ -1,0 +1,640 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+
+#FirstSection
+{
+   width: 100%;
+   height: 25vh;
+   padding-bottom: 0;
+   margin-bottom: 0;
+}
+.contactInfo
+{
+	width: 100%;
+	height:10%;
+	color: #fff;
+	background:#000;
+}
+.contactInfoLeft
+{
+	width: auto;
+	height: auto;
+	padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	margin-right:25%;
+	display: inline-block;
+}
+.contactInfoRight
+{
+	width:auto;
+	height: auto;
+	margin-left: 30%;
+	display: inline-block;
+	padding: 10px;
+}
+.NavigationClass
+{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	background:#000;
+}
+.NV
+{
+	width: 100%;
+	background: transparent;
+}
+.navStyle li a
+{
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 2px solid transparent;
+}
+.navStyle li a:hover
+{
+ border-bottom: 3px solid red;
+}
+
+/*/////////////
+First end setion
+////////////// */
+/*//////////////
+Second Start 
+//////////////*/
+
+
+#PhotosgraphWedding-1
+{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	color: #333;
+	padding: 10px;
+}
+.PhotosgraphMain
+{
+	width: auto;
+	height: auto;
+	padding: 10px;
+}
+.PhotosgraphMain_2
+{
+	width: auto;
+	height: auto;
+	padding: 20px;
+	margin: 10px;
+}
+.Photosgraph_heading
+{
+	width:80%;
+	height:auto;
+	margin-left: 10%;
+	padding: 10px; 
+}
+h2,h3,h4,h1,h5,h6 ,p
+{
+ color: #333;
+
+}
+.PhotosgraphMain_3
+{
+	width: auto;
+	height: auto;
+	padding: 10px;
+}
+
+.Photosgraph_image
+{
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0;
+}
+.Photosgraph_image img
+{
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+.PhotosgraphInfo
+{
+	width:70%;
+	height:auto;
+	margin: 0 0 0 9%;
+	padding: 0;
+	padding:0 0 20px 0;
+	margin-bottom: 10px;
+
+}
+.PhotosgraphInfo h3
+{
+ width: 100%;
+ height: auto;
+ font-size: 30px;
+color: #333;
+ margin:10px 0 0 10px;
+}
+.PhotosgraphInfo h5
+{
+ width: 100%;
+ height: auto;
+ font-size: 25px;
+ color: #333;
+ margin-left: 20px;
+}
+.PhotosgraphInfo p
+{
+ width:auto;
+ height: auto;
+ color: #333;
+ padding: 10px;
+ margin-left: 20px;
+ margin-right: 20px;
+ 
+
+}
+.Star
+{
+	width: auto;
+	height: auto;
+	padding: 0 0 0 20px;
+	color: yellow;
+}
+.btn
+{
+	width:auto;
+	height: auto;
+	color: #333;
+}
+.btn button
+{
+	color: #333;
+    font-size: 15px;
+    background: #004f20;
+    font-family: 'Hind', sans-serif;
+    border: 2px solid #004f20;
+    padding: 5px 40px 5px 40px;
+    font-weight: 500;
+    border-radius: 30px;
+    margin:20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: all 500ms ease;
+
+}
+#S1
+{
+	width: auto;
+	height: auto;
+	margin:10px 0 0 20px;
+	padding: 10px;
+	color: #333;
+
+}
+/*
+//////////
+Second section end
+//////////
+*/
+
+
+/*
+
+////////
+      //////////
+Photo second section Start 
+       //////////
+///////
+
+*/
+#PhotosgraphWedding-2
+{
+	width: 100%;
+	background:#fff;
+	height: 100vh;
+	padding: 10px;
+	color: #333;
+}
+.PhotosgraphWeddingMain_22
+{
+	width:auto;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+}
+
+.PhotoImageheadding h2
+{
+	width: 100%;
+	height: auto;
+	margin: 10px;
+}
+.PhotoImage-1
+{
+	width: 100%;
+	height: auto;
+	
+}
+.Photosgraph-2
+{
+	width: 80%;
+	height: auto;
+	padding: 10px;
+	background: #fafafa;
+}
+.Photosgraph_2
+{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+}
+#Photosgraph-left
+{
+	width: 45%;
+	height: auto;
+	padding: 10px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+#Photosgraph-leftHeading
+{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+}
+#Photosgraph-leftHeading h3
+{
+	font-size: 20px;
+	color: #333;
+}
+#Photosgraph-leftHeading p
+{
+	font-size: 18px;
+	color: #333;
+}
+#Photosgraph-leftHeading ul
+{
+	list-style: none;
+	color: #333;
+}
+#Photosgraph-right
+{
+	width: 45%;
+	height:auto;
+	padding: 10px;
+	margin-left: 20px;
+	margin-right: 10px;
+	display: inline-block;
+	
+}
+/*
+////////
+      //////////
+Photo section end
+       //////////
+///////
+
+*/
+/*
+
+////////
+      //////////
+Vandors second section Start 
+       //////////
+///////
+
+
+
+
+#VandorsSectionSecond
+{
+	width: 100%;
+	height: auto;
+	padding-bottom: 50px;
+}
+.VandorMainDiv
+{
+	width: 100%;
+	height: auto;
+}
+.VandorsHeading
+{
+width: 100%;
+	height: auto;
+}
+.VandorsHeading h4
+{
+ color: #000;
+ text-align: center;
+ justify-content: center;
+padding: 20px;
+margin-top: 20px;
+font-size: 40px;
+letter-spacing: 2px;
+font-family: 'Great Vibes', cursive;
+}
+.VandorsImage
+{
+	width: 100%;
+	height: auto;
+}
+.VendorsCard
+{
+   width: 30%;
+   height: 50vh;
+   display: inline-block;
+   /*margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 20px;*//*
+.VendorsCard img
+{
+	width: 100%;
+   height: 45vh;
+   overflow: hidden;
+
+}
+/*
+
+////////
+      //////////
+Vandors second section end 
+       //////////
+///////
+
+*/
+
+/*
+
+
+
+
+
+
+
+/*
+
+/*
+//////////
+footer start 
+/////////
+
+*/
+
+#Footer
+{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	color: #000;
+}
+.footerMain
+{
+	width: 100%;
+	height: auto;
+	color: #000;
+	padding: 20px;
+}
+.footerImg
+{ 
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.footerImg img
+{
+	width: auto;
+	height: auto;
+	align-items: center;
+	padding-left: 40%;
+
+	align-content: center;
+	justify-content: center;
+	
+}
+.FooterHeading 
+{
+	width:55%;
+	height: auto;
+	border: 1px solid #fff;
+}
+.FooterHeading h3
+{
+	width: 100%;
+font-size: 40px;
+ text-align: center;
+ padding-top: 10px; 
+ justify-content: center;
+ position: relative;
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 19px;
+font-family: 'Great Vibes', cursive;
+}
+.footerMain .Address
+{
+	width: 30%;
+	height: 10%;
+	display: inline-block;
+	color: #000;
+	margin: 15px;
+	padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.footerMain .Address h3
+{
+	text-align: center;
+	width: 100%
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	font-family: 'Great Vibes', cursive;
+
+}
+#SecondFooter
+{
+	width: 100%;
+	height: 50vh;
+	color:#000;
+	padding: 30px;
+}
+.SecondMain
+{
+	width: 100%;
+	height:50vh;
+	background: #fff;
+	color:#000;
+	/*margin-top: 20px;*/
+	padding: 10px;
+	padding-top: 50px;
+}
+.Second-contant-1{
+	width: 23%;
+	height: 50vh;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-1 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-2 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-3 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 h5
+{
+	text-align: center;
+	width: 100%
+	font-size:40px;
+	line-height: 50px;
+    font-weight: 500;
+	color: #000;
+	letter-spacing: 2px;
+	font-family: 'Great Vibes', cursive;
+}
+.Second-contant-4 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-2 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-3 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}.Second-contant-1 a
+{
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+    font-weight: 300;
+	color: #000;letter-spacing: 2px;
+	font-family: , cursive;
+}
+.Second-contant-2{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+
+}
+.Second-contant-3{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+.Second-contant-4{
+	width: 23%;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+	height: auto;
+	display: inline-block;
+	
+}
+#SocialFooter
+{
+	width: 100%;
+	height:10vh;
+	/*color: #fff;*/color: #000;
+}
+
+.copyWerite
+{
+	width: 40%;
+	height: auto;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+	align-items: center;
+	text-align: center;
+}
+
+.SocialIcon
+{
+	width:20%;
+	display: block;
+	height: auto;
+	float: right;
+	margin: 0px;
+	padding: 10px;
+}
+.SocialIcon .fa
+{
+	width: auto;
+	margin: 10px;
+	margin-bottom: 0!important;
+	align-items: center;
+	color: #000;
+	justify-content: center;
+}
+.SocialIcon .fa:hover
+{
+	color: blue;
+}
